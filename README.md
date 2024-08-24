@@ -1,7 +1,8 @@
 <h1> Desafio fábrica de software </h1>
 
-<i><b>**O nome do país de origem tem que ser escrito da forma que se escreve no país de origem, ex: Estados Unidos - United States**</b></i>
-
+<p>!
+<p><i><b>O nome do país de origem tem que ser escrito da forma que se escreve no país de origem, ex: Estados Unidos - United States</b></i>
+<p>!
 <p>Esse projeto tem a API desenvolvida para a admnistração de uma loja, utilizando-se de três entidades: "Cliente", "Funcinário" e "Produto".</p>
 
 <h2>Comandos utéis</h2>
